@@ -14,11 +14,11 @@ The design was inspired by a Figma design to replicate and learn from a professi
 
 ## Figma Design
 
-The design was based on the Figma layout available at [Figma Design Link]([insert-your-figma-link-here](https://www.figma.com/community/file/1289252438434450753/minimal-login-page-ui-design)).
+The design was based on the Figma layout available at [Figma Design Link](https://www.figma.com/community/file/1289252438434450753/minimal-login-page-ui-design).
 
 ## Preview
 
-![Login Page Preview](assets/login-page-preview.png)
+![Login Page Preview](assets/images/preview.jpeg)
 
 ## Installation
 
