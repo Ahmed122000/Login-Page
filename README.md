@@ -6,12 +6,6 @@ This project showcases a login page design created using HTML and CSS. The desig
 
 The design was inspired by a Figma design to replicate and learn from a professional layout. The primary goal was to implement a responsive and aesthetically pleasing login page using modern CSS techniques.
 
-## Features
-
-- Responsive layout using Flexbox
-- Modern and clean design
-- Mobile-friendly
-
 ## Figma Design
 
 The design was based on the Figma layout available at [Figma Design Link](https://www.figma.com/community/file/1289252438434450753/minimal-login-page-ui-design).
