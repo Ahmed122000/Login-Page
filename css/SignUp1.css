@@ -24,7 +24,7 @@
 }
 
 h1{
-    font-size: 120px;
+    font-size: 7em;
     font-family:"Smooch Sans", sans-serif;
     line-height: 5px;
     padding: 20px;
@@ -33,7 +33,7 @@ h1{
 
 
 p{
-    font-size: 14px;
+    font-size: 1em;
     font-family: "Poppins", sans-serif;
 }
 
@@ -50,12 +50,11 @@ p{
     background-position: 10px 10px;
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
-
+    font-size: 1.5em;
 }
 
 #username::placeholder{
-    font-size: large;
-    color: black;
+    color: #333;
     opacity: 1;
 }
 
@@ -65,27 +64,26 @@ p{
     background-position: 10px 10px;
     background-repeat: no-repeat;
     padding: 12px 20px 12px 40px;
-
+    font-size:1.5em;
 }
 #password::placeholder{
-    font-size: large;
-    color: black;
+    color: #333;
     opacity: 1;
 }
 
 #submit{
     background-color: #1C1C1C;
     color:white;
-    width: 364px;
-    height: 52px;
-    max-width: 364px;
-    max-height: 52px;  
-
-    font-size: 12px;
+    width: 90%;
+    height: 52px;  
+    font-size: 1.3em;
     font-family: "Poppins", sans-serif;
     font-weight: bold;
-  
+    align-self: center;
     border-radius: 15px;
+}
+#submit:hover{
+    cursor: pointer;
 }
 
 .other-options{
@@ -114,6 +112,10 @@ p{
     padding: 12px 20px 12px 40px;
     border-radius: 15px;
 }
+
+#google:hover{
+    cursor: pointer;
+}
 #facebook{
     display: flex;
     flex-direction: row;
@@ -132,7 +134,9 @@ p{
     padding: 12px 20px 12px 40px;
     border-radius: 15px;
 }
-
+#facebook:hover{
+    cursor: pointer;
+}
 .image-box{
     width:50%;
     height:90%;  
